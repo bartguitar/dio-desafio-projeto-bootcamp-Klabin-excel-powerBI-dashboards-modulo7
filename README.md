@@ -5,7 +5,7 @@ Este repositório contém a modelagem de um banco de dados dimensional em estrut
 
 A modelagem foi baseada em um diagrama relacional pré-existente, seguindo as diretrizes de focar no objeto **Professor** e omitir dados relativos a alunos.
 
-![Diagrama Relacional](universidade.png)
+
 
 ---
 
